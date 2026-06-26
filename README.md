@@ -1,6 +1,7 @@
 # APP - Previsão do Tempo
 
 Uma aplicação simples de previsão do tempo desenvolvida com HTML, CSS e JavaScript.
+Desenvolvido em aulas do curso Fullstack DevQuest.
 
 ## Descrição
 
