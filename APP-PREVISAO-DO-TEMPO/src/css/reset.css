@@ -1,0 +1,5 @@
+* {
+    margin: 0;
+    padding: 0;
+   box-sizing: border-box;  /* serve para que o padding e a borda sejam incluídos na largura e altura total do elemento */
+}
